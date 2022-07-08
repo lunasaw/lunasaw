@@ -1,7 +1,7 @@
 ### Hi there, I'm [luna](https://www.isczy.tk)! 👋
 
 - 🔭 I’m currently working on [..]().
-- 👋 My personal [blog site](https://www.isczy.tk)
+- 👋 My personal [blog site](https://www.isluna.ml)
 
 ---
 
