@@ -13,24 +13,24 @@
  -->
  <div align='center'>
   <a href="https://github.com/lunasaw">
-        <img align='center' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lunasaw&theme=github_dark" alt="github profile-details"> 
+        <img align='center' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lunasaw" alt="github profile-details"> 
     </a>
 </div>
 <div align='center'>
     <a href="https://github.com/lunasaw">
-        <img align='center' src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lunasaw&theme=github_dark" alt="github most-commit-language">
+        <img align='center' src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lunasaw" alt="github most-commit-language">
     </a>
     <a href="https://github.com/lunasaw">
-        <img align='center' src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lunasaw&theme=github_dark" alt="github repos-per-language">
+        <img align='center' src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lunasaw" alt="github repos-per-language">
     </a>
 </div>
 
 <div align='center'>
     <a href="https://github.com/lunasaw">
-        <img align='center' src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lunasaw&theme=github_dark" alt="github stats">
+        <img align='center' src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lunasaw" alt="github stats">
     </a>
     <a href="https://github.com/lunasaw">
-        <img align='center' src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lunasaw&theme=github_dark&utcOffset=8" alt="github productive-time">
+        <img align='center' src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lunasaw&utcOffset=8" alt="github productive-time">
     </a>
 </div>
 
