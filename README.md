@@ -33,7 +33,7 @@
         <img align='center' src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lunasaw&utcOffset=8" alt="github productive-time">
     </a>
 </div>
-<p><img align="center" src="https://raw.githubusercontent.com/lunasaw/lunasaw/output/dist/github-contribution-grid-snake.svg" alt="lunasaw" /></p>
+<p><img align="center" src="https://raw.githubusercontent.com/lunasaw/lunasaw/output/github-contribution-grid-snake.svg" alt="lunasaw" /></p>
 </details>
 
 <div align='center'>
