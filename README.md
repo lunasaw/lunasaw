@@ -38,7 +38,7 @@
 
 <div align='center'>
     <a href="https://github.com/lunasaw">
-        <img align='center' src="https://repobeats.axiom.co/api/embed/413b785e1f48adcef08e508dda073fe1a03b58c0.svg" alt="Repobeats analytics image">
+        <img align='center' src="https://repobeats.axiom.co/api/embed/340c458bd204daab91bd064adb0dea671fc13215.svg" alt="Repobeats analytics image">
     </a>
 </div>
 
