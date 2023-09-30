@@ -1,6 +1,6 @@
 ### Hi there, I'm [luna](https://www.isluna.ml)! 👋
 
-- 🔭 I’m currently working on [homw](https://github.com/lunasaw/luna-commmon).
+- 🔭 I’m currently working on [home](https://github.com/lunasaw/luna-common).
 - 👋 My personal [blog site](https://lunasaw.github.io)
 
 ---
