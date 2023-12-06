@@ -44,6 +44,6 @@
 
 <div align='center'>
     <a href="https://github.com/lunasaw">
-        <img align='center' src="https://raw.githubusercontent.com/lunasaw/lunasaw/master/gitartwork.svg" alt="Github Art Work">
+        <img align='center' src="https://github.com/lunasaw/lunasaw/raw/master/gitartwork.svg" alt="Github Art Work">
     </a>
 </div>
